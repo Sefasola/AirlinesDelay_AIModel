@@ -1,1 +1,6 @@
-/weather_cache/
+# ignore all CSV data files
+*.csv
+
+# ignore cache/checkpoint dirs
+weather_cache/
+.ipynb_checkpoints/
